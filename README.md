@@ -15,7 +15,7 @@ Welcome to my project portfolio! This repository showcases a range of projects I
 - [Loan Analysis Dashboard](PowerBI/Loan_Analysis/README.md): Descriptive and predictive analysis of personal loans.
 
 ### 3. Python Projects
-- [Customer Personality Analysis](Python/Forest_Fire_Model/README.md): Uses KMeans clustering algorithm to conduct customer personality analysis.
+- [Customer Personality Analysis](Python/src/"Customer Personality Analysis.ipynb"): Uses KMeans clustering algorithm to conduct customer personality analysis.
 - [Ames House Price Prediction](Python/Customer_Churn_Prediction/README.md): Builds a logistic regression model to predict Ames house prices.
 
 ---
