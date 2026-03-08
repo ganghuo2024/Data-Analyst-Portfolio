@@ -22,7 +22,7 @@ Feel free to contact me at **[huogang.ca@gmail.com](mailto:huogang.ca@gmail.com)
 
 ---
 
-## Table of Contents
+## Portfolio Projects
 
 ### 1. Tableau Dashboards
 - [Call Centre Performance Dashboard](https://public.tableau.com/views/20241119_Call_Centre_PerformanceDashboard/D7ExecutiveDashboardwithMultiCustomDateRangeMeasures?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
