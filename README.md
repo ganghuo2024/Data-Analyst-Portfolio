@@ -1,6 +1,20 @@
-# project_portfolio
+# Gang Huo - Data Analyst Portfolio
 
-Welcome to my project portfolio! This repository showcases a range of projects I've developed in data visualization, Python programming, and machine learning. Explore the dashboards, predictive models, and analysis pipelines I've created to solve real-world problems.
+## 👋 About Me
+
+I am a Data Analyst / Business Intelligence Analyst with 3+ years of experience in data analytics, ETL development, data warehousing, and business intelligence reporting. I specialize in transforming complex raw data into meaningful insights that drive business improvement and support data-driven decision-making. 
+
+My technical background includes building data pipelines, dimensional data models, data warehouses, and interactive dashboards using tools such as SQL, Python, Power BI, Tableau, and Excel.
+
+## 📂 Portfolio Projects
+
+This GitHub portfolio showcases a collection of my **data analytics and business intelligence projects**, including:
+
+- 📊 **Power BI and Tableau dashboards** for business performance and customer analytics  
+- 🗄️ **SQL projects** involving data extraction, transformation, and analytical queries  
+- 🐍 **Python projects** for data wrangling, exploratory data analysis, machine learning, and predictive modeling  
+- 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
+- 🏗️ **Data warehouse and ETL projects** demonstrating dimensional modeling and data integration
 
 ---
 
