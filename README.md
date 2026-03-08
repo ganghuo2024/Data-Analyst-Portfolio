@@ -2,19 +2,21 @@
 
 ## 👋 About Me
 
-I am a Data Analyst / Business Intelligence Analyst with 3+ years of experience in data analytics, ETL development, data warehousing, and business intelligence reporting. I specialize in transforming complex raw data into meaningful insights that drive business improvement and support data-driven decision-making. 
+I am a Data Analyst / Business Intelligence Analyst with 3+ years of experience in data analytics, ETL development, data warehousing, and business intelligence reporting. I specialize in transforming complex raw data into actionable insights that support data-driven decision-making and business improvement.
 
-My technical background includes building data pipelines, dimensional data models, data warehouses, and interactive dashboards using tools such as SQL, Python, Power BI, Tableau, and Excel.
+My technical background includes designing and building data pipelines, dimensional data models, and data warehouses, as well as developing interactive dashboards and analytical reports. I work with tools and technologies such as SQL, Python, Power BI, Tableau, and Excel to extract, transform, analyze, and visualize data effectively.
+
+I am passionate about leveraging data to uncover patterns, optimize business processes, and help organizations make informed strategic decisions.
 
 ## 📂 Portfolio Projects
 
 This GitHub portfolio showcases a collection of my **data analytics and business intelligence projects**, including:
 
 - 📊 **Power BI and Tableau dashboards** for business performance and customer analytics  
-- 🗄️ **SQL projects** involving data extraction, transformation, and analytical queries  
-- 🐍 **Python projects** for data wrangling, exploratory data analysis, machine learning, and predictive modeling  
-- 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
+- 🐍 **Python projects** for data wrangling, exploratory data analysis, machine learning, and predictive modeling
+- 🗄️ **SQL projects** involving data extraction, transformation, and analytical queries    
 - 🏗️ **Data warehouse and ETL projects** demonstrating dimensional modeling and data integration
+- 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
 
 ---
 
