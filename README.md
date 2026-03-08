@@ -18,11 +18,10 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 - 🏗️ **Data warehouse and ETL projects** demonstrating dimensional modeling and data integration
 - 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
 
-Feel free to contact me at **[huogang.ca@gmail.com](mailto:huogang.ca@gmail.com)**.
-
+Feel free to contact me at **[huogang.ca@gmail.com](mailto:huogang.ca@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/datasavvyganghuo)**.
 ---
 
-## Portfolio Projects
+## Projects
 
 ### 1. Tableau Dashboards
 - [Call Centre Performance Dashboard](https://public.tableau.com/views/20241119_Call_Centre_PerformanceDashboard/D7ExecutiveDashboardwithMultiCustomDateRangeMeasures?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
