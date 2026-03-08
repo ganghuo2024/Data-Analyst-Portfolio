@@ -18,7 +18,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 - 🏗️ **Data warehouse and ETL projects** demonstrating dimensional modeling and data integration
 - 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
 
- Feel free to contact me at [huogang.ca@gmail.com](mailto:huogang.ca@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/datasavvyganghuo).
+ For inquiries, feel free to contact me at [huogang.ca@gmail.com](mailto:huogang.ca@gmail.com).
+ 
 ---
 
 ## Projects
