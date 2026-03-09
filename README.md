@@ -24,18 +24,21 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 ## Projects
 
-### 1. Tableau Dashboards
+### 1. Call Centre Performance and Churn Prediction
 - [Call Centre Performance Dashboard](https://public.tableau.com/views/20241119_Call_Centre_PerformanceDashboard/D7ExecutiveDashboardwithMultiCustomDateRangeMeasures?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
-- [Loan Analysis Dashboard](https://public.tableau.com/views/2024_Loan_Credit_Risk_Analysis/NewLoanPredictionAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Visualizes loan credit risk.
 
-### 2. Power BI Dashboards
-- [Online Sales Analysis Dashboard](PowerBI/Sales_Analysis/README.md): Analyze the online sales performance of a retailer.
-- [Loan Analysis Dashboard](PowerBI/Loan_Analysis/README.md): Descriptive and predictive analysis of personal loans.
 
-### 3. Python Projects
-- [Customer Personality Analysis](Python/src/Customer_Personality_Analysis.ipynb): Uses KMeans clustering algorithm to conduct customer personality analysis.
-- [Ames House Price Prediction](Python/Customer_Churn_Prediction/README.md): Builds a logistic regression model to predict Ames house prices.
+### 2. Retail Sales Analysis and RFM Analysis
+- [Retail Sales Performance and RFM Analysis Dashboard](Retail Sales Performance and RFM Analysis/Retail Sales Performance and RFM Analysis-Power BI Dashboard.pdf): Analyze the online sales performance of a retailer.
 
+
+### 3. Personal Loan Analysis and Default Prediction
+- [Personal Loan Analysis and Default Prediction Dashboard](Personal Loan Analysis and Default Prediction/Personal Loan Analysis and Default Prediction-Power BI Dashboard.pdf): Descriptive and predictive analysis of personal loans.
+
+### 4. Customer Personality Analysis
+- [Customer Personality Analysis](Customer Personality Analysis/Customer_Personality_Analysis.ipynb): Uses KMeans clustering algorithm to conduct customer personality analysis.
+
+### 5. WNBA Player Projection Analysis
 ---
 
 ## Tools and Technologies
