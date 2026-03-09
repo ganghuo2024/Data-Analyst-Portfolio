@@ -70,8 +70,6 @@ Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Mach
 
 ### 5. WNBA Player Projection Analysis
 #### 🎯 Objective  
-### 5. WNBA Player Projection Analysis
-#### 🎯 Objective  
 Evaluate the performance of the WNBA player projection model for the 2023 season, developed by the AI/ML team of an iGaming company. The analysis assesses the accuracy of projected player statistics—points, assists, and rebounds—by comparing them with actual game performance data.
 #### 🛠️ Tools Used  
 Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notbook, Power BI, DAX
