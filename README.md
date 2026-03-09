@@ -13,7 +13,7 @@ I am passionate about leveraging data to uncover patterns, optimize business pro
 This GitHub portfolio showcases a collection of my **data analytics and business intelligence projects** across domains such as finance, retail, telecom and gaming, including:
 
 - 📊 **Power BI and Tableau dashboards** for business performance and customer analytics  
-- 🐍 **Python projects** for data wrangling, exploratory data analysis, machine learning, and predictive modeling
+- 🐍 **Python projects** for data wrangling, exploratory data analysis, feature engineering, machine learning, and predictive modeling
 - 🗄️ **SQL projects** involving data extraction, transformation, and analytical queries    
 - 🏗️ **Data warehouse and ETL projects** demonstrating dimensional modeling and data integration
 - 📈 **Excel analytics solutions** using Pivot Tables, VBA automation, and dashboards  
