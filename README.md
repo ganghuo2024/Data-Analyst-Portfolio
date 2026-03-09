@@ -23,62 +23,39 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ---
 
 ## Projects
+**1. Call Centre Performance and Churn Prediction**  
+🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations  
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Tableau Dashboard Design  
+🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)  
+📊 **Dashboard:** 📥 [Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### 1. Call Centre Performance and Churn Prediction
-#### 🎯 Objective  
-Analyzes the call centre performance of a telecom company and predict customer churn for optimizing business operation and improving customer retention. 
-#### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau, advanced Tableau Calculations (e.g., LODs)
-#### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Design
-#### 🐍 Python Notebook
-📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)
-#### 📊 Dashboard
-📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**2. Retail Sales Performance and RFM Analysis**  
+🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
+🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, advanced DAX  
+🧠 **Skills:** Data Cleaning • EDA • Customer Segmentation • Data Visualization • Power BI Dashboard Design  
+🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)  
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
-### 2. Retail Sales Performance and RFM Analysis
-#### 🎯 Objective  
-Analyze online sales performance of a retailer and segment customers using RFM analysis for sales performance tracking and more targeted marketing compaigns.
-#### 🛠️ Tools Used  
-SQL, Python (Pandas), Jupyter Notbook, Power BI, advanced DAX
-#### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Power BI Dashboard Design
-#### 🐍 Python Notebook
-📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)
-#### 📊 Dashboard
-📥 [Download Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+**3. Personal Loan Analysis and Default Prediction**  
+🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notebook, Power BI, advanced DAX  
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Power BI Dashboard Design  
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf)
 
-### 3. Personal Loan Analysis and Default Prediction
-#### 🎯 Objective  
-Perform descriptive and predictive analysis on personal loan data for credit risk assessment. 
-#### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notbook, Power BI, advanced DAX
-#### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Power BI Dashboard Design
-#### 📊 Dashboard
-📥 [Download Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf) 
+**4. Customer Personality Analysis**  
+🎯 **Objective:** Apply K-means clustering to identify customer segments and analyze behaviors to support targeted marketing strategies.  
+🛠 **Tools:** SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notebook  
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Clustering • Data Visualization  
+🐍 **Notebook:** 📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb)
 
-### 4. Customer Personality Analysis
-#### 🎯 Objective  
-Apply the K-means clustering algorithm to identify customer segments and analyze their behaviors and attitudes to support targeted marketing and product strategies.
-#### 🛠️ Tools Used  
-SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notbook
-#### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Machine Learning (Clustering), Data Visualization
-#### 🐍 Python Notebook
-📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb) 
+**5. WNBA Player Projection Analysis**  
+🎯 **Objective:** Evaluate a WNBA player projection model by comparing predicted statistics with actual 2023 performance.  
+🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, advanced DAX  
+🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Inter-page Drill-through)  
+🐍 **Notebook:** 📥 [Python code](WNBA-Player-Projection-Analysis/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)  
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/WNBA_Player_Projection_Analysis_Po)
 
-### 5. WNBA Player Projection Analysis
-#### 🎯 Objective  
-Evaluate the performance of the WNBA player projection model for the 2023 season, developed by the AI/ML team of an iGaming company. The analysis assesses the accuracy of projected player statistics—points, assists, and rebounds—by comparing them with actual game performance data.
-#### 🛠️ Tools Used  
-Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notbook, Power BI, advanced DAX
-#### 🧠 Skills Demonstrated 
-Data Cleaning, Statistical Test, Data Visualization, ML Model Performance Evaluation, Power BI Dashboard Design (e.g., Page Navigator, Bookmark Navigator, interpage drill-through )
-#### 🐍 Python Notebook
-📥 [Python code](WNBA-Player-Projection-Analysis/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)
-#### 📊 Dashboard
-📥 [Download Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/WNBA_Player_Projection_Analysis_Power_BI_Dashboard.pdf)
 
 ---
 
