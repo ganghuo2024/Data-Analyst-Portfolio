@@ -41,7 +41,7 @@ Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualizat
 #### 💡 Key Insights
   
 #### 📊 Dashboard
-📥 [Download Power BI Dashboard (PDF](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+📥 [Download Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 
 
