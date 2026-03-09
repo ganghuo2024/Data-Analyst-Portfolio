@@ -28,9 +28,9 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 #### 🎯 Objective  
 Analyzes the call centre performance of a telecom company and predict customer churn for optimizing business operation and improving customer retention. 
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau
+SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau, advanced Tableau Calculations (e.g., LODs)
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Design
 #### 🐍 Python Notebook
 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)
 #### 📊 Dashboard
@@ -40,9 +40,9 @@ Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machin
 #### 🎯 Objective  
 Analyze online sales performance of a retailer and segment customers using RFM analysis for sales performance tracking and more targeted marketing compaigns.
 #### 🛠️ Tools Used  
-SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
+SQL, Python (Pandas), Jupyter Notbook, Power BI, advanced DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Power BI Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Power BI Dashboard Design
 #### 🐍 Python Notebook
 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)
 #### 📊 Dashboard
@@ -52,9 +52,9 @@ Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualizat
 #### 🎯 Objective  
 Perform descriptive and predictive analysis on personal loan data for credit risk assessment. 
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notbook, Power BI, DAX
+SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notbook, Power BI, advanced DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Power BI Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Power BI Dashboard Design
 #### 📊 Dashboard
 📥 [Download Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf) 
 
@@ -62,9 +62,9 @@ Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machin
 #### 🎯 Objective  
 Apply the K-means clustering algorithm to identify customer segments and analyze their behaviors and attitudes to support targeted marketing and product strategies.
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notbook, Power BI, DAX
+SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notbook
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Machine Learning (Clustering), Data Visualization, Power BI Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Machine Learning (Clustering), Data Visualization
 #### 🐍 Python Notebook
 📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb) 
 
@@ -72,9 +72,9 @@ Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Mach
 #### 🎯 Objective  
 Evaluate the performance of the WNBA player projection model for the 2023 season, developed by the AI/ML team of an iGaming company. The analysis assesses the accuracy of projected player statistics—points, assists, and rebounds—by comparing them with actual game performance data.
 #### 🛠️ Tools Used  
-Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notbook, Power BI, DAX
+Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notbook, Power BI, advanced DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Statistical Test, Data Visualization, ML Model Performance Evaluation, Power BI Dashboard Development
+Data Cleaning, Statistical Test, Data Visualization, ML Model Performance Evaluation, Power BI Dashboard Design (e.g., Page Navigator, Bookmark Navigator, interpage drill-through )
 #### 🐍 Python Notebook
 📥 [Python code](WNBA-Player-Projection-Analysis/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)
 #### 📊 Dashboard
