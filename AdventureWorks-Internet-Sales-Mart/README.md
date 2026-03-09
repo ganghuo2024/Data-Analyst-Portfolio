@@ -118,6 +118,7 @@ These results confirm that the ETL pipelines successfully loaded and validated t
 
 # Repository Structure
 ![Repository Structure](diagrams/repository_structure_diagram.png)
+
 ---
 
 # Project Presentation
