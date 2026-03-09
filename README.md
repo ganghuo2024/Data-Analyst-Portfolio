@@ -23,13 +23,13 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ---
 
 ## Projects
-**1. Call Centre Performance and Churn Prediction**  
-🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
-🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations  
-🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Tableau Dashboard Design  
-🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)  
-📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
 
+**1. AdventureWorks Internet Sales Data Mart**  
+🎯 **Objective:** Design and implement an Internet Sales data mart using a dimensional model to support analytical reporting on online sales performance.  
+🛠 **Tools:** SQL Server, T-SQL, SSMS, SQL Server Integration Services (SSIS)  
+🧠 **Skills:** Data Warehousing • Dimensional Modeling • ETL Pipeline Development • Source-to-Target Mapping • Slowly Changing Dimensions (SCD Type 2) • Data Validation  
+📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Data-Mart)  
+📄 **Presentation:** 📥 [Project Presentation (PDF)](AdventureWorks-Internet-Sales-Data-Mart/presentation/Online_Sales_Data_Mart_Presentation.pdf)
 
 **2. Retail Sales Performance and RFM Analysis**  
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
@@ -38,19 +38,26 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
-**3. Personal Loan Analysis and Default Prediction**  
+**3. Call Centre Performance and Churn Prediction**  
+🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations  
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Tableau Dashboard Design  
+🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)  
+📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
+
+**4. Personal Loan Analysis and Default Prediction**  
 🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notebook, Power BI, advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Power BI Dashboard Design  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf)
 
-**4. Customer Personality Analysis**  
+**5. Customer Personality Analysis**  
 🎯 **Objective:** Apply K-means clustering to identify customer segments and analyze behaviors to support targeted marketing strategies.  
 🛠 **Tools:** SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notebook  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Clustering • Data Visualization  
 🐍 **Notebook:** 📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb)
 
-**5. WNBA Player Projection Analysis**  
+**6. WNBA Player Projection Analysis**  
 🎯 **Objective:** Evaluate a WNBA player projection model by comparing predicted statistics with actual 2023 performance.  
 🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, advanced DAX  
 🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Inter-page Drill-through)  
