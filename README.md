@@ -29,19 +29,19 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 ### 2. Retail Sales Performance and RFM Analysis
 
-### 🎯 Objective  
-Analyze online online sales performance of a retailer and segment customers using RFM analysis for targeted marketing compaigns.
+#### 🎯 Objective  
+Analyze online sales performance of a retailer and segment customers using RFM analysis for targeted marketing compaigns.
 
-### 🛠️ Tools Used  
+#### 🛠️ Tools Used  
 SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
 
-### 🧠 Skills Demonstrated 
+#### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Dashboard Development
 
-### 💡 Key Insights
+#### 💡 Key Insights
   
-### 📊 Dashboard
-📥 **[Download Power BI Dashboard (PDF](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+#### 📊 Dashboard
+📥 [Download Power BI Dashboard (PDF](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 
 
