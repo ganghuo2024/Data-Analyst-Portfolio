@@ -83,8 +83,8 @@ Data Cleaning, Statistical Test, Data Visualization, ML Model Performance Evalua
 ---
 
 ## Tools and Technologies
-- **Data Visualization**: Tableau, Power BI, Python
-- **Programming**: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
+- **Data Visualization**: Tableau, Power BI, Python, Excel
+- **Programming**: SQL, Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Plotly), Excel VBA
 - **Data Storage**: CSV, Excel, SQL Server databases
 - **IDE**: Visual Studio, VS Code, Jupyter Notebook
 - **Version Control**: Git, GitHub
