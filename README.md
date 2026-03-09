@@ -32,7 +32,9 @@ SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau
 #### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Development
 #### 📊 Dashboard
-📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### 📊 Notebook
+📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb)  
 
 ### 2. Retail Sales Performance and RFM Analysis
 #### 🎯 Objective  
