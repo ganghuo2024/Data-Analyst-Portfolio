@@ -25,7 +25,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ## Projects
 
 ### 1. Call Centre Performance and Churn Prediction
-- [Call Centre Performance Dashboard](https://public.tableau.com/views/20241119_Call_Centre_PerformanceDashboard): Analyzes the call centre performance of a telecom company.
+- [Call Centre Performance Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
 
 ### 2. Retail Sales Performance and RFM Analysis
 - [Retail Sales Performance and RFM Analysis Dashboard](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf): Analyze the online sales performance of a retailer.
