@@ -28,18 +28,21 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 - [Call Centre Performance Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
 
 ### 2. Retail Sales Performance and RFM Analysis
-**Objective**  
+
+### 🎯 Objective  
 Analyze online online sales performance of a retailer and segment customers using RFM analysis for targeted marketing compaigns.
 
-**Tools**  
+### 🛠️ Tools Used  
 SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
 
-**Skills**  
+### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Dashboard Development
 
-**Key Insights**  
+### 💡 Key Insights
+  
+### 📊 Dashboard
+📥 **[Download Power BI Dashboard (PDF](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
-- [Download Power BI Dashboard (PDF](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf): Analyze the online sales performance of a retailer.
 
 
 ### 3. Personal Loan Analysis and Default Prediction
