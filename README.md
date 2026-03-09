@@ -28,15 +28,15 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 #### 🎯 Objective  
 Analyzes the call centre performance of a telecom company and predict customer churn for optimizing business operation and improving customer retention. 
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, scikit-learn),Jupyter Notbook, Tableau
+SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau
 #### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Development
 #### 📊 Dashboard
-📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): 
+📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ### 2. Retail Sales Performance and RFM Analysis
 #### 🎯 Objective  
-Analyze online sales performance of a retailer and segment customers using RFM analysis for targeted marketing compaigns.
+Analyze online sales performance of a retailer and segment customers using RFM analysis for sales performance tracking and more targeted marketing compaigns.
 #### 🛠️ Tools Used  
 SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
 #### 🧠 Skills Demonstrated 
@@ -46,21 +46,21 @@ Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualizat
 
 ### 3. Personal Loan Analysis and Default Prediction
 #### 🎯 Objective  
-Descriptive and predictive analysis of personal loans.
+Perform descriptive and predictive analysis on personal loan data for credit risk assessment. 
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit_learn), Jupyter Notbook, Power BI, DAX
+SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notbook, Power BI, DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification) Data Visualization, Power BI Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Power BI Dashboard Development
 #### 📊 Dashboard
-📥 [Download Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf): 
+📥 [Download Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf) 
 
 ### 4. Customer Personality Analysis
 #### 🎯 Objective  
-Uses KMeans clustering algorithm to conduct customer personality analysis.
+Apply the K-means clustering algorithm to identify customer segments and analyze their behaviors and attitudes to support targeted marketing and product strategies.
 #### 🛠️ Tools Used  
-SQL, Python (Pandas, Scikit_learn), Jupyter Notbook, Power BI, DAX
+SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notbook, Power BI, DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification) Data Visualization, Power BI Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Unsupervised Machine Learning (Clustering), Data Visualization, Power BI Dashboard Development
 #### 📊 Notebook
 📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb) 
 
@@ -70,7 +70,8 @@ Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machin
 ## Tools and Technologies
 - **Data Visualization**: Tableau, Power BI, Python
 - **Programming**: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
-- **Data Storage**: CSV, Excel
+- **Data Storage**: CSV, Excel, SQL Server databases
+- **IDE**: Visual Studio, VS Code, Jupyter Notebook
 - **Version Control**: Git, GitHub
 
 ---
