@@ -25,7 +25,14 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ## Projects
 
 ### 1. Call Centre Performance and Churn Prediction
-- [Call Centre Performance Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): Analyzes the call centre performance of a telecom company.
+#### 🎯 Objective  
+Analyzes the call centre performance of a telecom company and predict customer churn for optimizing business operation and improving customer retention. 
+#### 🛠️ Tools Used  
+SQL, Python (Pandas, scikit-learn),Jupyter Notbook, Tableau
+#### 🧠 Skills Demonstrated 
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Development
+#### 📊 Dashboard
+📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): 
 
 ### 2. Retail Sales Performance and RFM Analysis
 #### 🎯 Objective  
@@ -33,16 +40,29 @@ Analyze online sales performance of a retailer and segment customers using RFM a
 #### 🛠️ Tools Used  
 SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
 #### 🧠 Skills Demonstrated 
-Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Dashboard Development
+Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Power BI Dashboard Development
 #### 📊 Dashboard
 📥 [Download Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
-#### 💡 Key Insights
 
 ### 3. Personal Loan Analysis and Default Prediction
-- [Personal Loan Analysis and Default Prediction Dashboard](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf): Descriptive and predictive analysis of personal loans.
+#### 🎯 Objective  
+Descriptive and predictive analysis of personal loans.
+#### 🛠️ Tools Used  
+SQL, Python (Pandas, Scikit_learn), Jupyter Notbook, Power BI, DAX
+#### 🧠 Skills Demonstrated 
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification) Data Visualization, Power BI Dashboard Development
+#### 📊 Dashboard
+📥 [Download Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf): 
 
 ### 4. Customer Personality Analysis
-- [Customer Personality Analysis](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb): Uses KMeans clustering algorithm to conduct customer personality analysis.
+#### 🎯 Objective  
+Uses KMeans clustering algorithm to conduct customer personality analysis.
+#### 🛠️ Tools Used  
+SQL, Python (Pandas, Scikit_learn), Jupyter Notbook, Power BI, DAX
+#### 🧠 Skills Demonstrated 
+Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification) Data Visualization, Power BI Dashboard Development
+#### 📊 Notebook
+📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb) 
 
 ### 5. WNBA Player Projection Analysis
 ---
