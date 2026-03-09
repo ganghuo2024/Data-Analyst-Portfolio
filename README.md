@@ -28,8 +28,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🎯 **Objective:** Design and implement an Internet Sales data mart using a dimensional model to support analytical reporting on online sales performance.  
 🛠 **Tools:** SQL Server, T-SQL, SSMS, SQL Server Integration Services (SSIS)  
 🧠 **Skills:** Data Warehousing • Dimensional Modeling • ETL Pipeline Development • Source-to-Target Mapping • Slowly Changing Dimensions (SCD Type 2) • Data Validation  
-📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Data-Mart)  
-📄 **Presentation:** 📥 [Project Presentation (PDF)](AdventureWorks-Internet-Sales-Data-Mart/presentation/Online_Sales_Data_Mart_Presentation.pdf)
+📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Mart)  
+📄 **Presentation:** 📥 [Project Presentation (PDF)](AdventureWorks-Internet-Sales-Mart/presentation/Online_Sales_Data_Mart_Presentation.pdf)
 
 **2. Retail Sales Performance and RFM Analysis**  
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
