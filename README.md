@@ -31,10 +31,10 @@ Analyzes the call centre performance of a telecom company and predict customer c
 SQL, Python (Pandas, Scikit-learn),Jupyter Notbook, Tableau
 #### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Feature Engineering, Supervised Machine Learning (Classification), Data Visualization, Tableau Dashboard Development
+#### 📊 Notebook
+📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)
 #### 📊 Dashboard
 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-#### 📊 Notebook
-📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb)  
 
 ### 2. Retail Sales Performance and RFM Analysis
 #### 🎯 Objective  
@@ -43,6 +43,8 @@ Analyze online sales performance of a retailer and segment customers using RFM a
 SQL, Python (Pandas), Jupyter Notbook, Power BI, DAX
 #### 🧠 Skills Demonstrated 
 Data Cleaning, Exploratory Data Analysis, Customer Segmentation, Data Visualization, Power BI Dashboard Development
+#### 📊 Notebook
+📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)
 #### 📊 Dashboard
 📥 [Download Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
