@@ -28,7 +28,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Tableau Dashboard Design  
 🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)  
-📊 **Dashboard:** 📥 [Tableau Dashboard](https://public.tableau.com/views/2026CallCentrePerformanceDashboard/D2CustomerServiceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📥 [Customer Churn Prediction Dashboard](Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn Analysis_and_Prediction_Power_BI_Dashboard.pdf)
+
 
 **2. Retail Sales Performance and RFM Analysis**  
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
