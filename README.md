@@ -40,8 +40,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 **3. Call Centre Performance and Churn Prediction**  
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
-🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations, Parameters, Power BI, Advanced DAX Calculations <br>
-🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Tableau Dashboard Design • Power BI Dashboard Design  • Star Schema Data Modeling <br>
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, SQLAlchemy, Pyodbc), VS Code, Jupyter Notebook, SSMS, Tableau Public, Power BI Desktop, Advanced DAX <br>
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification •ETL with Python and SQL• Tableau Dashboard Design • Power BI Dashboard Design  • Star Schema Data Modeling • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
 🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
 📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)📥 [Call Centre Performance Power BI Dashboard](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Call_Centre_Performance_Power_BI_Dashboard.pdf) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
 

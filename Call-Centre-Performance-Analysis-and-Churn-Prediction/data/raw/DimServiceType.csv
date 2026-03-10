@@ -1,0 +1,17 @@
+ServiceType_Key,ServiceType_Desc
+1,Billing Issue
+2,Contact Information Change
+3,Delivery Issue
+4,Contact Cancellation Request
+5,Functionality Question
+6,Health & Safety Question
+7,Installation Issue
+8,Legal Issue
+9,Licensing Question
+10,Parts Order
+11,Produt Defect
+12,Product Operation Issue
+13,Product Order
+14,Product Unusable
+15,Service Renewal
+16,Warranty Question
