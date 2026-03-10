@@ -1,6 +1,6 @@
 # Gang Huo - Data Analyst Portfolio
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
 I am a Data Analyst / Business Intelligence Analyst with 3+ years of experience in data analytics, ETL development, data warehousing, and business intelligence reporting. I specialize in transforming complex data into actionable insights that support data-driven decision-making and business improvement.
 
