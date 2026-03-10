@@ -42,8 +42,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn), Jupyter Notebook, Tableau, LOD Calculations  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Tableau Dashboard Design  
-🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/notebooks/Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Prediction.ipynb)  
-📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Call-Centre-Performance-Analysis-and-Churn-Prediction/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
+🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
+📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
 
 **4. Personal Loan Analysis and Default Prediction**  
 🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
