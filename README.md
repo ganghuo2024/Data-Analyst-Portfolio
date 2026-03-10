@@ -33,21 +33,21 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 **2. Retail Sales Performance and RFM Analysis**  
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
-🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, advanced DAX  
+🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Customer Segmentation • Data Visualization • Power BI Dashboard Design  
 🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/dashboards/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 **3. Call Centre Performance and Churn Prediction**  
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
-🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, SQLAlchemy, Pyodbc), VS Code, Jupyter Notebook, SSMS, Tableau Public, Power BI Desktop, Advanced DAX <br>
-🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification •ETL with Python and SQL• Tableau Dashboard Design • Power BI Dashboard Design  • Star Schema Data Modeling • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, SQLAlchemy, Pyodbc), VS Code, Jupyter Notebook, SSMS, Tableau Public, Power BI Desktop, Advanced DAX, PowerPoint <br>
+🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • ETL with Python Programming • Tableau Dashboard Design • Power BI Dashboard Design  • Star Schema Data Modeling • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
 🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
 📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)📥 [Call Centre Performance Power BI Dashboard](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Call_Centre_Performance_Power_BI_Dashboard.pdf) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
 
 **4. Personal Loan Analysis and Default Prediction**  
 🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
-🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notebook, Power BI, advanced DAX  
+🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Power BI Dashboard Design  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/dashboards/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf)
 
@@ -59,7 +59,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 **6. WNBA Player Projection Analysis**  
 🎯 **Objective:** Evaluate a WNBA player projection model by comparing predicted statistics with actual 2023 performance.  
-🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, advanced DAX  
+🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Inter-page Drill-through)  
 🐍 **Notebook:** 📥 [Python code](WNBA-Player-Projection-Analysis/notebooks/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/dashboards/WNBA_Player_Projection_Analysis_Power_BI_Dashboard.pdf)
