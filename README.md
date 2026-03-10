@@ -35,8 +35,8 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
 🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Customer Segmentation • Data Visualization • Power BI Dashboard Design  
-🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/Customer_Segmentation_with_RFM_Analysis.ipynb)  
-📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/dashboards/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 **3. Call Centre Performance and Churn Prediction**  
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
