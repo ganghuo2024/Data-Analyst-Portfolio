@@ -26,7 +26,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 
 **1. AdventureWorks Internet Sales Data Mart**  
 🎯 **Objective:** Design and implement an Internet Sales data mart using a dimensional model to support analytical reporting on online sales performance.  
-🛠 **Tools:** SQL Server, T-SQL, SSMS, Visual Studio, SQL Server Integration Services (SSIS), Excel, PowerPoint
+🛠 **Tools:** SQL Server, T-SQL, SSMS, Visual Studio, SQL Server Integration Services (SSIS), Excel, PowerPoint <br>
 🧠 **Skills:** Data Warehousing • Dimensional Modeling • ETL Pipeline Development • Source-to-Target Mapping • Slowly Changing Dimensions (SCD Type 2) • Data Validation  
 📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Mart)  
 📄 **Presentation:** 📥 [Project Presentation (PDF)](AdventureWorks-Internet-Sales-Mart/presentation/Online_Sales_Data_Mart_Presentation.pdf)
