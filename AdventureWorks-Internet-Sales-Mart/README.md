@@ -108,7 +108,7 @@ The ETL pipelines include several important transformations:
 
 | Table | Rows Loaded |
 |------|-------------|
-| DimCustomer | 18484 |
+| DimCustomer | 18,484 |
 | DimProduct | 504 |
 | DimDate | 2,922 |
 | DimGeography | 655 |
