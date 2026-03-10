@@ -82,7 +82,7 @@ ETL pipelines were developed using **SQL Server Integration Services (SSIS)**.
 ### Key ETL Steps
 
 1. Extract data from the **AdventureWorks2019 source database**
-2. Create **SQL views** to facilitate [source-to-target mapping](AdventureWorks-Internet-Sales-Mart/excel/Source_to_Target_Mapping.xlsx)
+2. Create **SQL views** to facilitate [source-to-target mapping](excel/Source_to_Target_Mapping.xlsx)
 3. Transform and clean data during the ETL process
 4. Load dimension tables
 5. Implement **Slowly Changing Dimension (SCD Type 2)** for product history tracking
