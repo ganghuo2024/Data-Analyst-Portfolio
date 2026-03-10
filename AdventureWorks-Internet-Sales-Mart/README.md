@@ -35,8 +35,10 @@ This project focuses on building an **Internet Sales Data Mart** to support anal
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
+- Visual Studio
 - SQL Server Integration Services (SSIS)
 - T-SQL
+- Microsoft Excel
 - Dimensional Data Modeling
 - Data Warehousing ETL Design
 
