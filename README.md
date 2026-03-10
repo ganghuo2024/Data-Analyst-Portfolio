@@ -68,9 +68,9 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ---
 
 ## Tools and Technologies
-- **Data Visualization**: Tableau, Power BI, Python, Excel
-- **Programming**: SQL, Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Plotly), Excel VBA
-- **Data Storage**: CSV, Excel, SQL Server databases
+- **Data Visualization**: Tableau, Power BI, Python, Excel, PowerPoint
+- **Programming**: SQL, Python (Pandas, Numpy, SQLAlchemy, Scikit-learn, Matplotlib, Seaborn, Plotly), Excel VBA, DAX
+- **Data Storage**: CSV, Excel, Paruet, SQL Server databases
 - **IDE**: Visual Studio, VS Code, Jupyter Notebook
 - **Version Control**: Git, GitHub
 
