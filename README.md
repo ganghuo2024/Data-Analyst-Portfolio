@@ -49,7 +49,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, Matplotlib), Jupyter Notebook, Power BI, advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • Data Visualization • Power BI Dashboard Design  
-📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf)
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Personal-Loan-Analysis-and-Default-Prediction/dashboards/Personal_Loan_Analysis_and_Default_Prediction_Power_BI_Dashboard.pdf)
 
 **5. Customer Personality Analysis**  
 🎯 **Objective:** Apply K-means clustering to identify customer segments and analyze behaviors to support targeted marketing strategies.  
