@@ -55,7 +55,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🎯 **Objective:** Apply K-means clustering to identify customer segments and analyze behaviors to support targeted marketing strategies.  
 🛠 **Tools:** SQL, Python (Pandas, Numpy, Scipy, Scikit-learn, Mlxtend, Matplotlib, Plotly, Seaborn), Jupyter Notebook  
 🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Clustering • Data Visualization  
-🐍 **Notebook:** 📥 [Python code](Customer-Personality-Analysis/Customer_Personality_Analysis.ipynb)
+🐍 **Notebook:** 📥 [Python code](Customer-Personality-Analysis/notebooks/Customer_Personality_Analysis.ipynb)
 
 **6. WNBA Player Projection Analysis**  
 🎯 **Objective:** Evaluate a WNBA player projection model by comparing predicted statistics with actual 2023 performance.  
