@@ -31,12 +31,12 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Data-Mart)  
 📄 **Presentation:** 📥 [Project Presentation (PDF)](AdventureWorks-Internet-Sales-Data-Mart/presentation/Online_Sales_Data_Mart_Presentation.pdf)
 
-**2. Retail Sales Performance and RFM Analysis**  
+**2. AdventureWorks Sales Performance and RFM Analysis**  
 🎯 **Objective:** Analyze online retail sales and segment customers using RFM analysis for performance monitoring and targeted marketing campaigns.  
 🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Customer Segmentation • Data Visualization • Power BI Dashboard Design  
-🐍 **Notebook:** 📥 [Python code](Retail-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
-📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](Retail-Sales-Performance-and-RFM-Analysis/dashboards/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+🐍 **Notebook:** 📥 [Python code](AdventureWorks-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](AdventureWorks-Sales-Performance-and-RFM-Analysis/dashboards/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 **3. Call Centre Performance and Churn Prediction**  
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
