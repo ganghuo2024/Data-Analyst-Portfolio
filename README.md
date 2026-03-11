@@ -25,7 +25,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 ## Projects
 
 **1. AdventureWorks Internet Sales Data Mart**  
-🎯 **Objective:** Design and implement an Internet Sales data mart using a dimensional model to support analytical reporting on online sales performance.  
+🎯 **Objective:** Design and implement an Internet sales data mart using a dimensional model to support analytical reporting on online sales performance.  
 🛠 **Tools:** SQL Server, T-SQL, SSMS, Visual Studio, SQL Server Integration Services (SSIS), Excel, PowerPoint <br>
 🧠 **Skills:** Data Warehousing • Dimensional Modeling • ETL Pipeline Development • Source-to-Target Mapping • Slowly Changing Dimensions (SCD Type 2) • Data Validation  
 📦 **Project Repository:** 📥 [AdventureWorks Internet Sales Data Mart](AdventureWorks-Internet-Sales-Data-Mart)  
@@ -38,12 +38,12 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🐍 **Notebook:** 📥 [Python code](AdventureWorks-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](AdventureWorks-Sales-Performance-and-RFM-Analysis/dashboards/AdventureWorks_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
-**3. Call Centre Performance and Churn Prediction**  
-🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
+**3. Call Centre Business Intelligence System**  
+🎯 **Objective:** Build a business intelligence system to analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, SQLAlchemy, Pyodbc), VS Code, Jupyter Notebook, SSMS, Tableau Public, Power BI Desktop, Advanced DAX, PowerPoint <br>
-🧠 **Skills:** Data Cleaning • EDA • Feature Engineering • Classification • ETL with Python Programming • Tableau Dashboard Design • Power BI Dashboard Design  • Star Schema Data Modeling • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
-🐍 **Notebook:** 📥 [Python code](Call-Centre-Performance-Analysis-and-Churn-Prediction/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
-📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)📥 [Call Centre Performance Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Call_Centre_Performance_Power_BI_Dashboard.pdf) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Performance-Analysis-and-Churn-Prediction/dashboards/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
+🧠 **Skills:** Data Warehousing • Kimball Dimensional Modeling (Star Schema) • Data Cleaning • EDA • Feature Engineering • Classification • ETL with Python Programming • Tableau Dashboard Design • Power BI Dashboard Design  • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
+🐍 **Notebook:** 📥 [Python code](Call-Centre-Business-Intelligence-System/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
+📊 **Dashboard:** 📥 [Call Centre Performance Tableau Dashboard](https://public.tableau.com/views/Call_Centre_Performance_Tableau_Dashboard/D1ExecutiveDashboardofCallCentrePerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)📥 [Call Centre Performance Power BI Dashboard (PDF)](Call-Centre-Business-Intelligence-System/dashboards/Call_Centre_Performance_Power_BI_Dashboard.pdf) 📥 [Customer Churn Prediction Power BI Dashboard (PDF)](Call-Centre-Business-Intelligence-System/dashboards/Telecom_Customer_Churn_Analysis_and_Prediction_Power_BI_Dashboard.pdf)
 
 **4. Personal Loan Analysis and Default Prediction**  
 🎯 **Objective:** Perform descriptive and predictive analysis on personal loan data for credit risk assessment.  
