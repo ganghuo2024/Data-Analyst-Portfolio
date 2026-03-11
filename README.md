@@ -60,7 +60,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 **6. WNBA Player Projection Analysis**  
 🎯 **Objective:** Evaluate a WNBA player projection model by comparing predicted statistics with actual 2023 performance.  
 🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, Advanced DAX  
-🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Inter-page Drill-through)  
+🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Custom Viusals, Drill up, Drill down, Inter-page Drill-through, Conditional Formatting)  
 🐍 **Notebook:** 📥 [Python code](WNBA-Player-Projection-Analysis/notebooks/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)  
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/dashboards/WNBA_Player_Projection_Analysis_Power_BI_Dashboard.pdf)
 
