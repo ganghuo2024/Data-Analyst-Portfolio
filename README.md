@@ -39,7 +39,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](AdventureWorks-Sales-Performance-and-RFM-Analysis/dashboards/AdventureWorks_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 **3. Call Centre Business Intelligence System**  
-🎯 **Objective:** Build a business intelligence system to analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
+🎯 **Objective:** Build a business intelligence system to analyze call centre performance and predict customer churn to optimize operations and improve retention.  
 🛠 **Tools:** SQL, Python (Pandas, Scikit-learn, SQLAlchemy, Pyodbc), VS Code, Jupyter Notebook, SSMS, Tableau Public, Power BI Desktop, Advanced DAX, PowerPoint <br>
 🧠 **Skills:** Data Warehousing • Kimball Dimensional Modeling (Star Schema) • Data Cleaning • EDA • Feature Engineering • Classification • ETL with Python Programming • Tableau Dashboard Design • Power BI Dashboard Design  • Advanced DAX Calculations • Advanced Tableau Calculations • Dynamic Parameters <br>
 🐍 **Notebook:** 📥 [Python code](Call-Centre-Business-Intelligence-System/notebooks/Telecom_Customer_Churn_Prediction.ipynb)  
