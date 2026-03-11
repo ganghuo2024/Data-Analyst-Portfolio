@@ -36,7 +36,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🛠 **Tools:** SQL, Python (Pandas), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • EDA • Customer Segmentation • Data Visualization • Power BI Dashboard Design  
 🐍 **Notebook:** 📥 [Python code](AdventureWorks-Sales-Performance-and-RFM-Analysis/notebooks/Customer_Segmentation_with_RFM_Analysis.ipynb)  
-📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](AdventureWorks-Sales-Performance-and-RFM-Analysis/dashboards/Retail_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](AdventureWorks-Sales-Performance-and-RFM-Analysis/dashboards/AdventureWorks_Sales_Performance_and_RFM_Analysis_Power_BI_Dashboard.pdf)
 
 **3. Call Centre Performance and Churn Prediction**  
 🎯 **Objective:** Analyze call centre performance and predict telecom customer churn to optimize operations and improve retention.  
