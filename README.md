@@ -62,7 +62,7 @@ This GitHub portfolio showcases a collection of my **data analytics and business
 🛠 **Tools:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn), Jupyter Notebook, Power BI, Advanced DAX  
 🧠 **Skills:** Data Cleaning • Statistical Testing • Model Evaluation • Data Visualization • Power BI Dashboard Design (Page Navigator, Bookmark Navigator, Custom Viusals, Drill up, Drill down, Drill-through, Conditional Formatting)  
 🐍 **Notebook:** 📥 [Python code](WNBA-Player-Projection-Analysis/notebooks/WNBA_Player_Projection_Analysis_Gang_Huo.ipynb)  
-📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/dashboards/WNBA_Player_Projection_Analysis_Power_BI_Dashboard.pdf)
+📊 **Dashboard:** 📥 [Power BI Dashboard (PDF)](WNBA-Player-Projection-Analysis/dashboards/WNBA_Player_Projection_Analysis_Power_BI_Dashboard.pdf) <br>
 📄 **Presentation:** 📥 [Project Presentation (PDF)](WNBA-Player-Projection-Analysis/presentation/WNBA_Player_Projection_Analysis.pdf)
 
 ---
