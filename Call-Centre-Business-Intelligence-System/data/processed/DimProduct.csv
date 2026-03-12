@@ -1,0 +1,26 @@
+Product_Key,Name,ProductGroup_Key
+1,Bundle Plan A,1
+2,Bundle Plan B,1
+3,Bundle Plan C,1
+4,Bundle Plan D,1
+5,Bundle Plan E,1
+6,Fixed Line Plan A,2
+7,Fixed Line Plan B,2
+8,Fixed Line Plan C,2
+9,Fixed Line Plan D,2
+10,Fixed Line Plan E,2
+11,Internet Plan A,3
+12,Internet Plan B,3
+13,Internet Plan C,3
+14,Internet Plan D,3
+15,Internet Plan E,3
+16,Mobile Plan A,4
+17,Mobile Plan B,4
+18,Mobile Plan C,4
+19,Mobile Plan D,4
+20,Mobile Plan E,4
+21,TV Plan A,5
+22,TV Plan B,5
+23,TV Plan C,5
+24,TV Plan D,5
+25,TV Plan E,5
